@@ -16,12 +16,17 @@ Este relatório busca oferecer uma compreensão abrangente do desempenho do test
 
 ________________________________________
 
-# Neste projeto, trabalhei com: 
+# Neste projeto trabalhei com: 
 
 ✔️ Limpeza e exploração dos dados
+
 ✔️ Análise do funil de conversão
+
 ✔️ Avaliação do comportamento dos usuários
+
 ✔️ Detecção de possíveis inconsistências no experimento
+
 ✔️ Aplicação de teste estatístico (z-test) para verificar se a diferença entre as amostras era significativa
+
 
 Além da parte técnica, esse projeto foi um ótimo exercício de pensamento crítico e visão de produto, refletindo sobre o impacto real das decisões que tomamos com base em dados.
